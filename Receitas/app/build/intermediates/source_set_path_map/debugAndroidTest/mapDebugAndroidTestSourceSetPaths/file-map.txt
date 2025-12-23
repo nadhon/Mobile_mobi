@@ -1,0 +1,7 @@
+com.example.receitas.test.app-tracing-1.2.0-0 /home/nadhon/.gradle/caches/8.13/transforms/9ef4014dbc0e10ddec22600a85d32687/transformed/tracing-1.2.0/res
+com.example.receitas.test.app-core-1.7.0-1 /home/nadhon/.gradle/caches/8.13/transforms/f33a4246635a56170d4cb70dbc2c0e4c/transformed/core-1.7.0/res
+com.example.receitas.test.app-androidTest-2 /home/nadhon/Documentos/GitHub/Receitas/app/build/generated/res/resValues/androidTest/debug
+com.example.receitas.test.app-updated_navigation_xml-3 /home/nadhon/Documentos/GitHub/Receitas/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.example.receitas.test.app-mergeDebugAndroidTestResources-4 /home/nadhon/Documentos/GitHub/Receitas/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.receitas.test.app-mergeDebugAndroidTestResources-5 /home/nadhon/Documentos/GitHub/Receitas/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.receitas.test.app-debugAndroidTest-6 /home/nadhon/Documentos/GitHub/Receitas/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

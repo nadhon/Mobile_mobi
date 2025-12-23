@@ -1,0 +1,16 @@
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/detail/PostDetailViewModel.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/data/repository/PostRepository.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/data/remote/api/ApiService.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/detail/PostDetailScreen.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/settings/SettingScreen.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/components/PostItem.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/di/AppModule.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/data/remote/RetrofitClient.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/list/PostListScreen.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/MainActivity.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/data/model/Post.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/State/UiState.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/list/PostListViewModel.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/settings/SettingsScreen.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/screen/settings/SettingsViewModel.kt
+/home/nadhon/Documentos/GitHub/Receitas/app/src/main/java/com/example/receitas/ui/navigation/AppNavGraph.kt
